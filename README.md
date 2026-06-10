@@ -2,7 +2,8 @@
 
 ### 100% Free AI Assistant That Runs Anywhere
 
-Cloud-hosted version of JARVIS using TinyLlama 1.1B. No API keys, no GPU, no cost. Always online.
+Local-first version of JARVIS using TinyLlama 1.1B. No API keys, no GPU, no cost. 
+Runs on your laptop OR try cloud demo. Always private.
 
 ### 🚀 Live Demo
 https://huggingface.co/spaces/HarshRaghuwanshi/python
